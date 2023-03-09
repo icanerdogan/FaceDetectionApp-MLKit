@@ -1,4 +1,7 @@
 <h1> Face Detection App </h1>
+
+<b><u><a href="https://medium.com/@ibrahimcanerdogan/face-detection-app-with-mlkit-android-696ce42d4be4" target="_blank"> MEDIUM </a></u></b>
+
 <p> With ML Kit's face detection API, you can detect faces in an image, identify key facial features, and get the contours of detected faces. Note that the API detects faces, it does not recognize people .
 
 With face detection, you can get the information you need to perform tasks like embellishing selfies and portraits, or generating avatars from a user's photo. Because ML Kit can perform face detection in real time, you can use it in applications like video chat or games that respond to the player's expressions. </p>
