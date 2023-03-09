@@ -28,6 +28,7 @@ Here are some of the terms that we use regarding the face detection feature of M
 </ul>
 
 <h2> Face Detection App Preview </h2>
+
 Front Camera       |  Rear Camera
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/icanerdogan/FaceDetectionApp-MLKit/master/documents/Front%20Camera.png)  |  ![](https://raw.githubusercontent.com/icanerdogan/FaceDetectionApp-MLKit/master/documents/Rear%20Camera.png)
