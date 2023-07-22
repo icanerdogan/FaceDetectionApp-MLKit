@@ -1,5 +1,9 @@
 <h1> Face Detection App </h1>
 
+<p> Welcome to SnapFace: Face Finder AI, the cutting-edge application that revolutionizes face detection using the power of artificial intelligence. Seamlessly designed to work with both front and rear cameras, SnapFace intelligently identifies and locates faces with unparalleled precision, making every snapshot a memorable experience. </p>
+
+<a href="https://play.google.com/store/apps/details?id=com.ibrahimcanerdogan.facedetectionapp"><img width="90" height="90" src="https://img.icons8.com/?size=512&id=L1ws9zn2uD01&format=png"/></a>
+
 <b><u><a href="https://medium.com/@ibrahimcanerdogan/face-detection-app-with-mlkit-android-696ce42d4be4" target="_blank"> MEDIUM </a></u></b>
 
 <p> With ML Kit's face detection API, you can detect faces in an image, identify key facial features, and get the contours of detected faces. Note that the API detects faces, it does not recognize people .
