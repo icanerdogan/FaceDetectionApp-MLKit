@@ -3,6 +3,10 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 
+def versionMajor = 1
+def versionMinor = 0
+def versionPatch = 0
+
 android {
     namespace 'com.ibrahimcanerdogan.facedetectionapp'
     compileSdk 33
@@ -11,8 +15,8 @@ android {
         applicationId "com.ibrahimcanerdogan.facedetectionapp"
         minSdk 24
         targetSdk 33
-        versionCode 1
-        versionName "1.0"
+        versionCode versionMajor * 1000 + versionMinor * 100 + versionPatch * 10
+        versionName "${versionMajor}.${versionMinor}.${versionPatch}"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
